@@ -1,8 +1,18 @@
 h2.best{
-
+    font-family: cursive;
+    color: goldenrod;
 }
 
 .flashy{
     color: red;
     font-style: italic;
+}
+
+.hamburger{
+  width: 80vw;
+  margin-left: 10vw;
+}
+
+body{
+    background-color: lemonchiffon;
 }
